@@ -5,7 +5,7 @@ email: foreverhu@outlook.com
 copyright_name: SUN YATSEN UNIVERSITY Yongheng Hu
 description: "Write your site description here. It will be used as your sites meta description as well!"
 baseurl: ""
-url: ""
+# url: ""
 # twitter_username: SBootstrap
 github_username:  endlesswho
 # facebook_username:  StartBootstrap
