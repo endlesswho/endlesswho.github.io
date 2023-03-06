@@ -8,7 +8,10 @@ category: Uncategoried
 # RobustNeRF学习笔记
 
 ## ProjectPages
-[RobustNeRF](https://youtu.be/ghT-elsjqho)
+[RobustNeRF](https://robustnerf.github.io/public/)
+
+## Abstract
+
 
 ## Approach
 
