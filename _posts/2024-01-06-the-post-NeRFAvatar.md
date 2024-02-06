@@ -6,7 +6,7 @@ category: Uncategoried
 ---
 
 ## IMAvatar
-CVPR2022：https://arxiv.org/abs/2112.07471
+CVPR2022：<https://arxiv.org/abs/2112.07471>
 ![IMAvater](/img/NeRFAvatar/imavatar_real.gif "IMAvater结果")
 ### Pipeline
 ![IMAvater-Pipeline](/img/NeRFAvatar/imavatar_pipeline.png "IMAvater框架")
@@ -17,13 +17,13 @@ CVPR2022：https://arxiv.org/abs/2112.07471
 通过从单目视频中学习，实现对头部 avatar 的隐式建模。受传统3DMMs精细控制的启发，使用学习到的混合形状和蒙皮场来表示与表情和姿势相关的变形。这些属性与姿势无关，可以用于根据新的表情和姿势参数变形规范几何和纹理场。
 
 ## Point-Avatar
-CVPR2023：https://zhengyuf.github.io/PointAvatar/
+CVPR2023：<https://zhengyuf.github.io/PointAvatar/>
 ![PointAvatar](/img/NeRFAvatar/pointavatar.png "PointAvatar")
 ### Pipeline
 ![PointAvatar_Pipeline](/img/NeRFAvatar/pointavatar_pipeline.png "PointAvatar_Pipeline")
 
 ## BakedAvatar
-SIGGRAPH Asia 2023：https://buaavrcg.github.io/BakedAvatar/
+SIGGRAPH Asia 2023：<https://buaavrcg.github.io/BakedAvatar/>
 ### 文章效果
 ![BakedAvatar](/img/NeRFAvatar/bakedavatar.png "BakedAvatar")
 ### Pipeline
